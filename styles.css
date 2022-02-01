@@ -1,0 +1,20 @@
+nav {
+    background-color: blanchedalmond;
+    height: 100px;
+}
+
+.jumbotron {
+    background-image: url(https://images.pexels.com/photos/2967008/pexels-photo-2967008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.jumbotron-background {
+    background-color: rgba(255, 255, 255,.7);
+    padding: 50px;
+}
+
+.jumbotron-row {
+    height: 50%;
+}
