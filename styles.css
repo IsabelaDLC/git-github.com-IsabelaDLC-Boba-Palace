@@ -25,3 +25,8 @@ nav {
     height: 15vh;
     background-color: palevioletred;
 }
+
+.smiley {
+    box-sizing: border-box;
+    height: 20px;
+}
