@@ -16,5 +16,12 @@ nav {
 }
 
 .jumbotron-row {
-    height: 50%;
+    height: 50vh;
+}
+
+.footer-row {
+    display: flex;
+    text-align: center;
+    height: 15vh;
+    background-color: palevioletred;
 }
